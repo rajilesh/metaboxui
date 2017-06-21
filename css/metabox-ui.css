@@ -1,0 +1,146 @@
+.rj_ot_upload_media {
+
+top: 0px;
+
+margin: 0px !important;
+
+position: absolute;
+
+right: -45px;
+
+text-indent: -9999px;
+
+}
+.user_metabox_wrap .format-setting-label{
+  background: none;
+  border: none;
+  color: #222;
+  cursor: text;
+  display: block;
+  font-size: 1.3em;
+  font-weight: 500;
+  line-height: 0.1em;
+  letter-spacing: 0;
+  padding: 0 0 9px 0;
+  -webkit-user-select: text;
+  text-shadow: none;
+}
+.inline_rj_input,input[type=text].inline_rj_input{
+  width: 49% !important;
+}
+.rj_map_option_type{
+}
+.edit-tags-php p.submit {
+  text-align: right;
+  margin-right:20px;
+}
+.edit-tags-php .wpseo-taxonomy-form{
+  margin-left: 190px;
+}
+.edit-tags-php #wpwrap > h3{
+  text-indent:190px;
+}
+.edit-tags-php .tax_meta_fields{
+  left: 32px;
+  position: relative;
+}
+
+ .ot-metabox-wrapper > .format-settings{
+    float: left;
+    box-sizing: border-box;
+    padding: 0 5px;
+    }
+ .ot-metabox-wrapper .format-settings .format-setting-label{
+      
+    margin-bottom: 8px;
+    }
+ .ot-metabox-wrapper .format-settings label{
+      
+    font-size: 12px;
+    padding-bottom: 0;
+    }
+#option-tree-settings-api .description h3, #option-tree-settings-api .format-setting-label .label, #poststuff .format-setting-label .label{
+  
+    font-size: 12px;
+    padding-bottom: 0;
+}
+.ot-metabox-wrapper .format-settings input{
+      
+    }
+    
+    
+ .ot-metabox-wrapper .format-setting.type-list-item .format-setting-label{
+      
+    }
+ .ot-metabox-wrapper .format-setting.type-list-item .format-settings{
+        padding: 0px 0 10px 0;  
+    }
+ .ot-metabox-wrapper .format-setting.type-list-item .format-setting-label h3{
+      
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    }
+    
+ .ot-metabox-wrapper .format-setting.type-list-item  label{
+      
+    }
+ .ot-metabox-wrapper .format-setting.type-list-item  input{
+      
+    }
+    
+.format-settings {
+    clear: both;
+}
+.user_meta_field{
+  width:100%;
+}
+.user_meta_field select {
+    height: auto;
+    max-width: 100%;
+}
+.user_meta_field select[multiple]{
+    min-height: 300px;
+  
+}
+.users_checkbox_field{
+  max-height:300px;
+  overflow:auto;
+}
+
+.option-tree-setting-wrap li{
+    position:relative;
+}
+.form_settings_rjot {
+    position:absolute;
+      left: 6px;
+    top: -4px;
+    width:250px;
+}
+.form_settings_rjot.aln_right{
+    right:100px;
+    left: auto;
+}
+.form_settings_rjot .description{
+}
+.form_settings_rjot .format-setting.wide-desc .description {
+    float: none;
+    width: 20%;
+    float: left;
+}
+.form_settings_rjot .format-setting.wide-desc .description span{
+  display:none;
+}
+.form_settings_rjot .format-setting.wide-desc .format-setting-inner {
+    width: 80%;
+}
+.rjot_open{
+  opacity:0;
+}
+
+
+@media all and (min-width:1024px){
+  .user_metabox_wrap{
+    width: 63%;
+  }
+}
